@@ -1,0 +1,2 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="24" width="24"><defs><symbol id="close" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M16.21 7.79a.994.994 0 010 1.404L13.402 12l2.806 2.806a.991.991 0 11-1.403 1.403L12 13.403 9.194 16.21a.991.991 0 11-1.403-1.403L10.597 12 7.79 9.194a.991.991 0 111.403-1.403L12 10.597l2.806-2.806a.991.991 0 011.403 0z"></path></symbol></defs>
+                      <use xlink:href="#close" fill="#747E81"></use>                  </svg>
